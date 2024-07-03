@@ -2,6 +2,9 @@
 
 This project is a Python application that uses computer vision to track and count bicep curl repetitions with the right hand using the cvzone and Mediapipe libraries.
 
+
+![Bicep Curl Counter Demo](BCC.png)
+
 ## Features
 
 - Activates the webcam to track arm movements.
