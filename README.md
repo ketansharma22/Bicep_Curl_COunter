@@ -27,7 +27,9 @@ This project is a Python application that uses computer vision to track and coun
 
 2. Install the Libraries:
     ```sh
-    pip install -r requirements.txt
+    pip install numpy
+    pip install mediapipe
+    pip install cvzone
 
 ## Usage
 
